@@ -1,0 +1,292 @@
+.nav {
+  color: black;
+}
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    text-decoration: none;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+    color: #1d0977;
+    font-weight: 800;
+    margin-right: 50px;
+    font-size: 14px
+}
+.logo {
+  color: #1d0977;
+  font-weight: 800;
+  font-size: larger;
+  padding-left: 40px;
+}
+.bit {
+  background-color: #007bb6;
+  background-size: cover;
+  color: white;
+  font-weight: 800;
+}
+.search {
+  width: 300px;
+  color: black;
+  border-radius: 20px;
+  border: 1px white;
+  padding: 7px;
+  text-align: center;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+.hero {
+  margin-left: 20px;
+}
+.gat {
+  background-image: url("9.png");
+  border-radius: 20px;
+
+}
+.tik {
+  background-color: rgb(0, 0, 0, 0.4);
+}
+.fot {
+  background-image: url("4.png");
+  background-size: cover;
+  margin-left: 30px;
+  border-radius: 40px;
+}
+.fig {
+  padding-top: 300px;
+  
+  color: white;
+  text-align: center;
+  padding-bottom: 200px;
+}
+.big {
+  font-size: 16px;
+}
+.cat {
+  margin-top: 10px;
+  margin-right: -40px;
+  background-color: white;
+  border-radius: 20px;
+  text-align: center;
+}
+.ext { 
+  font-size: 24px;
+  font-weight: 800;
+  margin-top: 80px;
+}
+.tex {
+  color: #007bb6;
+}
+.stex {
+  font-size: 17px;
+  font-style: italic;
+  margin-top: 12px;
+}
+.ima {
+  width: 100%;
+  border-top-left-radius: 20px;
+}
+.imat {
+  margin-top: -71%;
+  width: 40px;
+  border: 2px solid white;
+  border-radius: 50%;
+}
+.tan {
+  font-size: 17px;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+}
+.but {
+ float: center;
+     width: 400px;
+     color: white;
+     background-color: #007bb6;
+     border: none;
+     border-radius: 10px;
+     font-size: 18px;
+     font-weight: 700;
+}
+.featured {
+  color: #007bb6;
+  font-size: 24px;
+  font-weight: 800;
+  text-align: center;
+}
+.price {
+  color: #007bb6;
+  font-size: 18px;
+  font-weight: 700;
+  padding-left: 17px;
+}
+.apartment {
+  color: #024e71;
+  font-size: 18px;
+  font-weight: 800;
+  padding-left: 17px;
+}
+.aparticon {
+  width: 50px;
+  display: flex;
+  padding: 4px;
+  list-style: none;
+}
+.sicl {
+  background-color: rgb(230, 231, 235);
+}
+
+.plan {
+  display: flex;
+  list-style: none;
+  padding-left: 21%;
+}
+.plana {
+   padding-left: 70px;
+   font-size: 18px;
+   font-weight: 700;
+}
+.planaa {
+  color: #007bb6;
+  padding-left: 70px;
+  font-size: 18px;
+  font-weight: 700;
+}
+.bord {
+  margin-left: 14%;
+  background-color: #1d0977;
+}
+.mit {
+  background-color: white;
+}
+.com {
+  display: flex;
+  list-style: none;
+}
+.com1 {
+  width: 300px;
+  height: 300px;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+  background-image: url("ay.jpeg");
+  margin-left: 15%;
+}
+.com1pix {
+  width: 100%;
+  border-radius: 50%;
+  border: none;
+  z-index: 900;
+}
+.com2 {
+  background-image: url("splash2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.com21 {
+  margin-top: 15%;
+  padding-left: 60px;
+  font-size: 17px;
+  font-weight: 700;
+  color: #007bb6;
+}
+.com22 {
+  color: #007bb6;
+  font-size: 18px;
+  font-weight: 800;
+  padding-left: 60px;
+  font-style: italic;
+}
+.pcom {
+  color: #007bb6;
+  padding: 10px;
+  padding-left: 20px;
+  padding-bottom: 0px;
+  font-size: 18px;
+  font-weight: 700;
+}
+.pcompix {
+  width: 70px;
+  border: none;
+  border-radius: 50%;
+  margin-bottom: -40px;
+  
+}
+.pcomname {
+  color: #007bb6;
+  text-align: right;
+  font-size: 18px;
+  font-weight: 800;
+  padding-right: 20px;
+  padding-bottom: 0%;
+}
+.hearor {
+  list-style: none;
+  display: flex;
+  margin-left: 0%;
+  
+
+}
+.hearor1 {
+  font-size: 34px;
+  color: black;
+  font-weight: 900;
+  padding-top: 40px;
+  margin-top: 10%;
+  margin-left: 120px;
+}
+.hearor2p {
+  color: #007bb6;
+}
+.bim {
+  width: 300px;
+  color: white;
+  background-color: #007bb6;
+  border: none;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: 700
+}
+.footer-clean .item.social {
+  text-align:center;
+}
+}
+
+.footer-clean .item.social > a {
+font-size:24px;
+width:40px;
+height:40px;
+line-height:40px;
+display:inline-block;
+text-align:center;
+border-radius:50%;
+border:1px solid #ccc;
+margin-left:10px;
+margin-top:22px;
+color:inherit;
+opacity:0.75;
+}
+
+.footer-clean .item.social > a:hover {
+opacity:0.9;
+}
+
+@media (max-width:991px) {
+.footer-clean .item.social > a {
+  margin-top:40px;
+}
+}
+
+@media (max-width:767px) {
+.footer-clean .item.social > a {
+  margin-top:10px;
+}
+}
+
+.footer-clean .copyright {
+margin-top:14px;
+margin-bottom:0;
+font-size:13px;
+opacity:0.6;
+}
+
+/* Credit to https://epicbootstrap.com/snippets/footer-with-columns */
